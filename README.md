@@ -1,7 +1,7 @@
 <h1>Fox Friends</h1>
 <p>This is a simple app integrating the random fox API.  Just click the button to generate a picture of a fox!  Click as many times as you like for a new fox.</p>
 
-<span>Link to project: https://foxfriends.netlify.app/</span>
+<h3>Link to project: https://foxfriends.netlify.app/</h3>
 
 <p align="center">
 <img src="https://github.com/swionTech/foxfriends/blob/main/images/foxfriends.gif?raw=true" alt="image of Fox Friends app">
