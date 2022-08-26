@@ -7,7 +7,7 @@
 <img src="https://github.com/swionTech/foxfriends/blob/main/images/foxfriends.gif?raw=true" alt="image of Fox Friends app">
 </p>
 
-<h2>How It's Made:</h2>
+<h2>How It's Made</h2>
 <span>Tech used: HTML, CSS, JavaScript</span>
 
 <p>I made this app just to play with a basic API that has to do with something I love, animals!</p>
