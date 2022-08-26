@@ -11,3 +11,8 @@
 <span>Tech used: HTML, CSS, JavaScript</span>
 
 <p>I made this app just to play with a basic API that has to do with something I love, animals!</p>
+
+<h2>Optimizations</h2>
+<span>Media Queries for responsiveness</span>
+
+<p>This app adjusts to the viewport size and is mobile-friendly!</p>
