@@ -3,7 +3,7 @@
 
 <span>Link to project: https://foxfriends.netlify.app/</span>
 
-<img width="100%" src="https://github.com/swionTech/foxfriends/blob/main/images/foxfriends.gif?raw=true" alt="image of Fox Friends app">
+<img align="center" width="75%" src="https://github.com/swionTech/foxfriends/blob/main/images/foxfriends.gif?raw=true" alt="image of Fox Friends app">
 
 <h2>How It's Made:</h2>
 <span>Tech used: HTML, CSS, JavaScript</span>
